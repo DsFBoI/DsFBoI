@@ -1,6 +1,6 @@
 Hi, I’m @DsFBoI :)
 All of this is a method for me too save all my work both throughout university and what i'm currently working on. I study Computer Science in Spain.
-You can Find different Gits dedicated for something specific, hope some of them will be useful.😈
+You can Find different Gits dedicated for something specific, hope some of them will be useful.
 
 
 
